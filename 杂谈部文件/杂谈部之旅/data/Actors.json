@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"battlerName":"Actor1_7","characterIndex":6,"characterName":"Actor1","classId":12,"equips":[49,49,0,0,0],"faceIndex":6,"faceName":"Actor1","traits":[{"code":43,"dataId":235,"value":1}],"initialLevel":1,"maxLevel":99,"name":"新人","nickname":"","note":"","profile":"杂谈部的新人，无意间从pilipili看到群链接，抱着试试看\n的心态加入了群聊"},
+{"id":1,"battlerName":"Actor1_7","characterIndex":6,"characterName":"Actor1","classId":12,"equips":[49,49,0,0,0],"faceIndex":6,"faceName":"Actor1","traits":[{"code":43,"dataId":235,"value":1},{"code":43,"dataId":231,"value":1}],"initialLevel":1,"maxLevel":99,"name":"新人","nickname":"","note":"","profile":"杂谈部的新人，无意间从pilipili看到群链接，抱着试试看\n的心态加入了群聊"},
 {"id":2,"battlerName":"","characterIndex":4,"characterName":"SF_People1 - 副本","classId":7,"equips":[38,0,47,2,77],"faceIndex":5,"faceName":"SF_People1 - 副本","traits":[{"code":14,"dataId":5,"value":1}],"initialLevel":5,"maxLevel":99,"name":"榈七","nickname":"七七","note":"","profile":"【终末地】的密探"},
 {"id":3,"battlerName":"","characterIndex":2,"characterName":"Monster","classId":4,"equips":[2,0,0,6,73],"faceIndex":2,"faceName":"Monster","traits":[],"initialLevel":5,"maxLevel":99,"name":"猛獣","nickname":"洪水","note":"","profile":"老毕登"},
 {"id":4,"battlerName":"","characterIndex":2,"characterName":"SF_People1 - 副本","classId":6,"equips":[3,0,46,2,73],"faceIndex":2,"faceName":"SF_People1 - 副本","traits":[],"initialLevel":5,"maxLevel":99,"name":"小紫","nickname":"福建帅哥","note":"","profile":"福建帅哥一枚呀"},
